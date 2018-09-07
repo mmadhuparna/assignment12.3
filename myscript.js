@@ -11,5 +11,3 @@ var numbers = map([2, 4, 6], function(num){
        return num*2;
 });
 console.log(numbers);
-
-  
